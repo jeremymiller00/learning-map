@@ -21,6 +21,26 @@ There should be a kanban-like interface that allows the  user to quickly see whi
 
 There should be a timeline view were the user can view progress over time. It should be easy to understand both the volume if items in process and completed, as well as the relative balance across competencies.
 
+The basic CRUD operations must be supported as follows:
+* Create new item. Item attributes are:
+ * Name - required
+ * Competency - required
+ * Type - required
+ * Date Started - not required
+ * Date Finished - not required
+ * Status - required
+ * Notes - not required
+ * Links - not required
+
+* Read the set of items. Items should be grouped by status: TODO -> INPROGRESS -> DONE
+ * There should be a kanban-like view with each item on a "card"
+ * There should also be a timeline view such as a gantt chart
+ * A secondary requirement is to be able to perform basic analytics over the learning items
+
+* Update items by moving them from one status to another
+
+* Delete items which are not yet completed and are no longer relevant. Any item completed should never be deleted. 
+
 ## Success Criteria
 * A working application in github which can be cloned to any machine and used. The data are persisted to the cloud. 
 
