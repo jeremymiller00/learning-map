@@ -33,9 +33,9 @@ The basic CRUD operations must be supported as follows:
   * Links - not required
 
 * Read the set of items. Items should be grouped by status: TODO -> INPROGRESS -> DONE
- * There should be a kanban-like view with each item on a "card"
- * There should also be a timeline view such as a gantt chart
- * A secondary requirement is to be able to perform basic analytics over the learning items
+  * There should be a kanban-like view with each item on a "card"
+  * There should also be a timeline view such as a gantt chart
+  * A secondary requirement is to be able to perform basic analytics over the learning items
 
 * Update items by moving them from one status to another
 
