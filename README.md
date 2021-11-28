@@ -23,14 +23,14 @@ There should be a timeline view were the user can view progress over time. It sh
 
 The basic CRUD operations must be supported as follows:
 * Create new item. Item attributes are:
- * Name - required
- * Competency - required
- * Type - required
- * Date Started - not required
- * Date Finished - not required
- * Status - required
- * Notes - not required
- * Links - not required
+  * Name - required
+  * Competency - required
+  * Type - required
+  * Date Started - not required
+  * Date Finished - not required
+  * Status - required
+  * Notes - not required
+  * Links - not required
 
 * Read the set of items. Items should be grouped by status: TODO -> INPROGRESS -> DONE
  * There should be a kanban-like view with each item on a "card"
