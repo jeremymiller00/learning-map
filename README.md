@@ -7,7 +7,7 @@ An application for viewing and interacting with my Data Scientist Learning Map. 
 1. Machine Learning
 2. Software Engineering Skills, primarily to support development and deployment of models
 3. Product Management Skills
-4. Clarivate product, market, user awareness
+4. Company product, market, user awareness
 
 ## Application User Story
 As a data scientist who wants to continually be developing my skills is ways that will make me more productive and effective, I want to be able to store learning items for future action, track progress of learning items, and store what items have been to completed. I want to record and understand what progress I am making towards my defined competencies and where I may need to adjust my plan.
