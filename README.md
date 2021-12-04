@@ -46,6 +46,8 @@ The basic CRUD operations must be supported as follows:
 
 ## Open Questions
 * Do I want a web interface or cli?
+ * cli
 * What language / framework should I use?
+ * typer, python
 * Do I need a design doc?
-* What is a MVP?
+ * yes
