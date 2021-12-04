@@ -1,7 +1,7 @@
 # learning-map
 My path to continual data science improvement.
 
-An application for viewing and interacting with my Data Scientist Learning Map. The Learning Map represents books, tutorials, courses to develop my data science competencies. 
+An cli application for viewing and interacting with my Data Scientist Learning Map. The Learning Map represents books, tutorials, courses to develop my data science competencies. The application uses Python, Typer, and Sqlite3.
 
 ## Competencies:
 1. Machine Learning
@@ -43,11 +43,3 @@ The basic CRUD operations must be supported as follows:
 
 ## Success Criteria
 * A working application in github which can be cloned to any machine and used. The data are persisted to the cloud. 
-
-## Open Questions
-* Do I want a web interface or cli?
- * cli
-* What language / framework should I use?
- * typer, python
-* Do I need a design doc?
- * yes
