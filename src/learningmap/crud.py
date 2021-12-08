@@ -61,3 +61,6 @@ def get_all(cur, con, table="ITEMS"):
 def query(cur, con):
     query = input("Query: ")
     return cur.execute(query)
+
+def add(a,b):
+    return a+b
